@@ -1,2 +1,2 @@
 # jet-tip
-a simple tip with jetpack compose
+a simple tip app with jetpack compose
