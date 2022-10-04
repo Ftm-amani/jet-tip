@@ -1,2 +1,2 @@
-# simple-calculator
-a simple calculator with jetpack compose
+# jet-tip
+a simple tip with jetpack compose
